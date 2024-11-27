@@ -1,3 +1,5 @@
 1. Download project laravel 
 2. Create folder application untuk menyimpan file laravel
 3. Extract file laravel ke dalam folder application
+4. Buka VSCode, pilih file dan klik Add Folder to Workspace
+5. Open folder sistem-inventory

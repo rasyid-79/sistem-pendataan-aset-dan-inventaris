@@ -21,3 +21,4 @@
 5. Buat kolom baru di tabel users dengan nama role > tambahkan data admin pada kolom pertama dan karyawan pada kolom kedua
 6. Run sistem dengan perintah php artisan serve
 7. Setelah berhasil masuk ke halaman login
+8. Input email dan password

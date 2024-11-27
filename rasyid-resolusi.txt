@@ -1,0 +1,4 @@
+Resolusi 2025:
+  - Bisa bahasa inggris dengan level intermediate
+  - Menguasai bahasa php, javascript, dan berbagai framework seperti laravel dan reactjs
+  - Membangun sebuah website pribadi

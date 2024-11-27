@@ -1,3 +1,11 @@
+## Install Composer
+1. Donwload file composer
+2. Install composer
+3. Tentukan file lokasi composer
+4. Pilih proxy
+5. Kemudian install
+6. Instalasi selesai
+
 ## Download Project Laravel dan Add Folder to Workspace
 1. Download project laravel 
 2. Create folder application untuk menyimpan file laravel

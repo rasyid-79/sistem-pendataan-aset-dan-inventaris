@@ -6,6 +6,7 @@
 5. Kemudian install
 6. Instalasi selesai
 
+## Download Project Laravel dan Add Folder to Workspace
 1. Download project laravel 
 2. Create folder application untuk menyimpan file laravel
 3. Extract file laravel ke dalam folder application
@@ -20,3 +21,5 @@
 5. Buat kolom baru di tabel users dengan nama role > tambahkan data admin pada kolom pertama dan karyawan pada kolom kedua
 6. Run sistem dengan perintah php artisan serve
 7. Setelah berhasil masuk ke halaman login
+8. Input email dan password
+9. Aktifkan extension gd di file php.ini yang terdapat pada folder xampp/php dengan menghapus ; di baris extension=gd untuk fitur berita acara

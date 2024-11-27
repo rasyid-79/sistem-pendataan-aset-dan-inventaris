@@ -1,4 +1,4 @@
-## Install Composer
+# Install Composer
 1. Donwload file composer
 2. Install composer
 3. Tentukan file lokasi composer
@@ -6,14 +6,14 @@
 5. Kemudian install
 6. Instalasi selesai
 
-## Download Project Laravel dan Add Folder to Workspace
+# Download Project Laravel dan Add Folder to Workspace
 1. Download project laravel 
 2. Create folder application untuk menyimpan file laravel
 3. Extract file laravel ke dalam folder application
 4. Buka VSCode, pilih file dan klik Add Folder to Workspace
 5. Open folder sistem-inventory
 
-## Run Project
+# Run Project
 1. Jalankan Apache dan MySQL di XAMPP
 2. Open VSCode -> Di terminal arahkan ke directory sistem-inventory
 3. Buat database terlebih dulu dengan nama angkasapura di phpMyAdmin, setelah itu jalankan perintah php artisan migrate di terminal VSCode
